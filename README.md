@@ -35,7 +35,10 @@ Steps 1, 3 and 5 are driven through **Claude Code** with the **Magnific** and
 **Google Drive** MCP servers; steps 2 and the finishing touches use the small,
 dependency-light Python scripts in [`scripts/`](scripts/).
 
-See [`docs/WORKFLOW.md`](docs/WORKFLOW.md) for the full end-to-end process.
+See [`docs/WORKFLOW.md`](docs/WORKFLOW.md) for the full end-to-end process, and
+[`docs/ART_STYLE.md`](docs/ART_STYLE.md) for the illustration style guide that
+keeps a whole book visually consistent (art style, colour, cut-out edges,
+prompt skeleton).
 
 ---
 
