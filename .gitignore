@@ -1,0 +1,31 @@
+# ── Client illustration assets — NEVER commit (copyrighted client work) ──
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
+*.tif
+*.tiff
+*.gif
+*.mp4
+*.mov
+
+# Working / output dirs
+assets/
+output/
+scratch/
+scratchpad/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Editor / OS
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
